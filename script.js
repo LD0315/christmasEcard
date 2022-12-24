@@ -7,7 +7,7 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 //Resize Canvas when window resizes
-window.addEventListener('resize',()=>{
+window.addEventListener('resize',() =>{
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
 })
