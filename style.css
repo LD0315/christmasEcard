@@ -5,6 +5,7 @@ body{
     padding: 0;
     overflow: hidden;
     box-sizing: border-box;
+    background-color: black;
 }
 
 .heading{
