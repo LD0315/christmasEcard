@@ -101,9 +101,8 @@ function renderFireRocketsSparkles() {
 }
 
 function animate() {
-    context.fillStyle = `red`;
+    context.fillStyle = `#CC231E`;
     context.fillRect(0,0,canvas.width,canvas.height);
-    //context.fillStyle = `white`
     renderFireRockets();
     renderFireRocketsSparkles();
     requestAnimationFrame(animate);

@@ -5,12 +5,11 @@ body{
     padding: 0;
     overflow: hidden;
     box-sizing: border-box;
-    background-color: red;
+    background-color: #CC231E;
     padding-top: 5em;
     display: flex;
     justify-content: center;
 }
-
 
 .typewriter {
     z-index: 1;
@@ -38,7 +37,6 @@ body{
     }
 }
 */
-
 
 .typewriter h1 {
   color: #fff;
@@ -224,7 +222,6 @@ body{
       linear-gradient(90deg, #0000 40%, #b00 0 60%, #0000 0),
       #0cc;
   }
-
 
   @media only screen and (max-width: 768px) {
     .typewriter {
